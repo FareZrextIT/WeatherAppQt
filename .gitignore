@@ -1,0 +1,13 @@
+build-*/
+*.user
+*.pro.user*
+*.autosave
+*.o
+*.obj
+*.exe
+*.dll
+*.log
+*.pch
+*.sdf
+*.ipch
+*.db
